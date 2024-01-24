@@ -41,5 +41,22 @@ Overall, the order fulfilment rate was notably high, surpassing 98% across all r
 
 ![5](https://github.com/eikeakanam/ETechSQL/assets/75729930/e40db5cc-25e3-4dd1-9be6-67c88c73a34f)
 
+___
+
+- **What are the most ordered products and list their respective categories:**
+
+Fifty percent of the top ten most demanded products were furniture. The complete list of the highest purchased products are listed below.
+
+![6](https://github.com/eikeakanam/ETechSQL/assets/75729930/1c3e65de-6dbd-46c4-b992-9eda3eb91582)
+
+___
+
+- **What is the Seasonal trend with Monthly Sales and Returns Per Month:**
+
+The last quarter of the year sees the highest sales, with November, October, and December leading in terms of revenue.
+
+![7](https://github.com/eikeakanam/ETechSQL/assets/75729930/89cc1495-1f90-4d43-97c6-08159eaaa650)
+
+___
 
 
