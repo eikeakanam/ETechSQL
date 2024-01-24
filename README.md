@@ -55,8 +55,14 @@ ___
 
 The last quarter of the year sees the highest sales, with November, October, and December leading in terms of revenue.
 
-![7](https://github.com/eikeakanam/ETechSQL/assets/75729930/89cc1495-1f90-4d43-97c6-08159eaaa650)
+![7](https://github.com/eikeakanam/ETechSQL/assets/75729930/acd82839-353b-42b2-b047-af8d21d91e7f)
 
 ___
+
+- **Return patterns based on customer segmentation:**
+
+Customers classified under the "Home Office" category exhibited the highest return rates, indicating a greater likelihood of returning purchased products.
+
+![8](https://github.com/eikeakanam/ETechSQL/assets/75729930/e55d9dfa-e20d-4411-a425-6ab417e9e9da)
 
 
