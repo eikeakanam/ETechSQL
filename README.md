@@ -19,15 +19,21 @@ ___
 ## QUERIES AND SOLUTIONS
 ___
 
-- Breakdown of the sales and profits trend by year
+- **Query 1: Breakdown of the sales and profits trend by year:**
+  
+  The peak performance in terms of sales, profits, and orders was observed in the year 2013, showcasing a consistent upward trajectory in both sales and profits throughout each subsequent year.
 
 ![3](https://github.com/eikeakanam/ETechSQL/assets/75729930/13e5506b-d3c4-4efd-9ac2-1fe2a2ee2be5)
 
-The peak performance in terms of sales, profits, and orders was observed in the year 2013, showcasing a consistent upward trajectory in both sales and profits throughout each subsequent year.
 ___
 
-- Sales trend by regions for completed orders
+- **Sales trend by regions for completed orders:**
+
+Over the span of four years, the Central region stood out with the highest sales and profit returns. Chris Sutton demonstrated exceptional performance, earning recognition as the top-performing regional manager
 
 ![4](https://github.com/eikeakanam/ETechSQL/assets/75729930/c20db161-4343-4b8c-990c-38039ac43633)
+
+___
+
 
 
