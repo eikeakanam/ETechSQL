@@ -35,5 +35,11 @@ Over the span of four years, the Central region stood out with the highest sales
 
 ___
 
+- **What is the rate of fulfilment and returns of orders by region:**
+
+Overall, the order fulfilment rate was notably high, surpassing 98% across all regions. Despite the Central region leading in the number of orders, the South region achieved the highest fulfilment rate at 99.64%, resulting in the lowest rate of returns.
+
+![5](https://github.com/eikeakanam/ETechSQL/assets/75729930/e40db5cc-25e3-4dd1-9be6-67c88c73a34f)
+
 
 
