@@ -73,3 +73,10 @@ The order processing time, on average, is 2 days from order placement to shipmen
 
 ![11](https://github.com/eikeakanam/ETechSQL/assets/75729930/e69d073c-37bb-4e09-a91b-d96fd9267b85)
 
+___
+
+- **Impact of discount levels on sales and profits (E.g. Most Profitable product):**
+
+Analyzing the most profitable product as a case study revealed that the optimal discount level for maximizing total sales is 0.06. However, to optimize profit, the most effective discount value is 0.05.
+
+![12](https://github.com/eikeakanam/ETechSQL/assets/75729930/2cefec35-c07e-4b0e-9a20-45cffa88410b)
