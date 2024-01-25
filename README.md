@@ -1,11 +1,18 @@
-# ETech Superstore Case Study
+# ETech Superstore (SQL Case Study)
 ## Presented by: Ekene Christian Ikeakanam
 ___
 ## INTRODUCTION AND PROBLEM STATEMENT
 
 ![Picture1](https://github.com/eikeakanam/ETechSQL/assets/75729930/0fd4545b-9ace-4cad-95ff-a488e0c09b4a)
 
-___
+The E_Tech dataset provides comprehensive information about various aspects of a retail business. It consists of detailed information about annual sales such as order and shipping details, customer information, product characteristics, and financial metrics. 
+
+Over the years, businesses encounter different forms of challenges which could be operational, increase in patronage, enhancing customer satisfaction, and maximizing profitability. The main objectives of embarking on this project is to identify patterns, trends, and opportunities within the dataset that provides key insights and possible solutions to these challenges. 
+Businesses across various sectors often struggle with issues around inventory management, shipping strategies, customer segmentation, and optimal pricing. This project was embarked upon to demonstrate my SQL skills by writing fully functional SQL Queries to provide valuable insights needed for expansion of the business.
+
+Skills deonstrated includes: Normalization, Basic and Advanced Joins, Aggregation and Sub Queries.
+
+**Some Insights uncovered includes:**
 
 - Demand, Sales and Profit trends over time
 - Identify and ighlight peak seasons (months / days) of high demand
