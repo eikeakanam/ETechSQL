@@ -65,4 +65,11 @@ Customers classified under the "Home Office" category exhibited the highest retu
 
 ![8](https://github.com/eikeakanam/ETechSQL/assets/75729930/e55d9dfa-e20d-4411-a425-6ab417e9e9da)
 
+___
+
+- **Average order processing days and shipping costs per ship mode:**
+
+The order processing time, on average, is 2 days from order placement to shipment across all ship modes. Furthermore, Regular Air emerges as the preferred and cost-effective shipping mode.
+
+![11](https://github.com/eikeakanam/ETechSQL/assets/75729930/e69d073c-37bb-4e09-a91b-d96fd9267b85)
 
