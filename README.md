@@ -2,6 +2,9 @@
 ## Presented by: Ekene Christian Ikeakanam
 ___
 ## INTRODUCTION AND PROBLEM STATEMENT
+
+![Picture1](https://github.com/eikeakanam/ETechSQL/assets/75729930/0fd4545b-9ace-4cad-95ff-a488e0c09b4a)
+
 ___
 
 - Demand, Sales and Profit trends over time
