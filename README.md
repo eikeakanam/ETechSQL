@@ -35,6 +35,12 @@ Over the span of four years, the Central region stood out with the highest sales
 
 ___
 
+- **What are the top five most profitable products**
+
+![10](https://github.com/eikeakanam/ETechSQL/assets/75729930/4140b21c-c767-444a-912f-55bff0e3aea0)
+
+___
+
 - **What is the rate of fulfilment and returns of orders by region:**
 
 Overall, the order fulfilment rate was notably high, surpassing 98% across all regions. Despite the Central region leading in the number of orders, the South region achieved the highest fulfilment rate at 99.64%, resulting in the lowest rate of returns.
